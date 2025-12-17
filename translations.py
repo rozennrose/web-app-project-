@@ -22,7 +22,6 @@ TEXTS = {
         ],
         "anne_points": [
             "Mengimplementasikan algoritma rute terpendek antar kota dan memproses data rute.",
-            "Membuat halaman 'Graf Provinsi Lengkap' untuk Jawa Barat.",
             "Melakukan pengujian dan debugging algoritma graf serta akurasi dataset.",
             "Mendokumentasikan metode teknis (algoritma & sumber data).",
             "Mengumpulkan dan menyiapkan dataset koneksi kota untuk pulau Jawa."
@@ -78,7 +77,6 @@ TEXTS = {
         ],
         "anne_points": [
             "Implemented the shortest-route algorithm between cities and processed route data.",
-            "Created the 'Full Province Graph' page for West Java.",
             "Conducted testing and debugging of graph algorithms and dataset accuracy.",
             "Documented technical methods (algorithms & data sources).",
             "Collected and prepared dataset of city connections for Java."
@@ -113,4 +111,5 @@ TEXTS = {
         "warning_no_data": "No cities available in:",
         "no_path": "No path found."
     }
+
 }
